@@ -22,7 +22,7 @@ ProcastinEater is a task management application built with React.js, designed to
    ```
 2. Navigate to the project directory:
    ```sh
-   cd procastineater
+   cd ToDoApp-ProcastinEater
    ```
 3. Install dependencies:
    ```sh
